@@ -7,4 +7,4 @@ eureka:
 server:
   port: 8084
 constants:
-  nombre: Estados de cuenta
+  nombre: Constante en github
