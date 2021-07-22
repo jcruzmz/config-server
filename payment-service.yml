@@ -7,4 +7,4 @@ eureka:
 server:
   port: 8084
 constants:
-  nombre: Constante en github
+  nombre: Constante cambiada
